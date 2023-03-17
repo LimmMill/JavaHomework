@@ -1,0 +1,6 @@
+мар. 17, 2023 8:52:55 PM dz_2.zadacha_3 main
+INFO: 7 + 7 = 14
+мар. 17, 2023 8:53:24 PM dz_2.zadacha_3 main
+INFO: 19 - 8 = 11
+мар. 17, 2023 8:53:51 PM dz_2.zadacha_3 main
+INFO: 28 + 18 = 46
