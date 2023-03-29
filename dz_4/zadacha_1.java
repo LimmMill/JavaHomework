@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class zadacha_1 {
 
-    public static List<Integer> reversList(LinkedList list) {       
+    public static List<Integer> reversList(LinkedList<Integer> list) {       
         LinkedList<Integer> reverslist = new LinkedList<>(); 
         for (int j = list.size() - 1; j >= 0; j--) {
             reverslist.addLast(j);
